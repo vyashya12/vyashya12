@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyashya12
 - 👀 I’m interested in HTML, CSS, JavaScript, PHP
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Data Structures
 - 📫 How to reach me: Email me at vyashyaraj25@gmail.com
 
 <!---
