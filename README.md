@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vyashya12
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m interested in HTML, CSS, JavaScript, PHP, ReactJS, Android 
+- 🌱 I’m currently learning Android Dev
 - 📫 How to reach me: Email me at vyashyaraj25@gmail.com
 
 <!---
