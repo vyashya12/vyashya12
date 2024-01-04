@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @vyashya12
-- 👀 I’m interested in HTML, CSS, JavaScript, PHP, ReactJS, Android 
-- 🌱 I’m currently learning Android Dev
+- 👀 I’m interested in ReactJS, ReactNative Expo, Docker and ultimately interested in AWS
+- 🌱 I’m currently learning K8s
+-     Working Experience is 2 years of DevOps Engineering by the way
+
 - 📫 How to reach me: Email me at vyashyaraj25@gmail.com
 
 <!---
