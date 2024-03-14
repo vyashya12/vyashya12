@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **CloudFormation**
 
-- 👨‍💻 All of my projects are available at [here](here)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/vyashya12">here</a>
 
-- 📝 I regularly write articles on [coming soon](coming soon)
+- 📝 I regularly write articles on {coming soon}
 
 - 💬 Ask me about **Containers, AWS, Jenkins, ReactJS**
 
